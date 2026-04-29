@@ -203,6 +203,10 @@ OBLITERATUS/
 
 3. **Vector de Rechazo:** Arditi et al., *"Refusal in Language Models Is Mediated by a Single Direction"* (NeurIPS 2024)
    - arXiv: [2406.11717](https://arxiv.org/abs/2406.11717)
+  
+3. **Promt:** Repositorio para la ejecución de la abliteración semántica.
+   - GirHub: [repo](https://github.com/DevCop95/promt
+)
 
 ***
 
